@@ -1,0 +1,14 @@
+D:\VisualStudioProjects\Drug_PlasticCard\src\bin\Debug\net8.0\src.exe
+D:\VisualStudioProjects\Drug_PlasticCard\src\bin\Debug\net8.0\src.deps.json
+D:\VisualStudioProjects\Drug_PlasticCard\src\bin\Debug\net8.0\src.runtimeconfig.json
+D:\VisualStudioProjects\Drug_PlasticCard\src\bin\Debug\net8.0\src.dll
+D:\VisualStudioProjects\Drug_PlasticCard\src\bin\Debug\net8.0\src.pdb
+D:\VisualStudioProjects\Drug_PlasticCard\src\obj\Debug\net8.0\src.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\Drug_PlasticCard\src\obj\Debug\net8.0\src.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Drug_PlasticCard\src\obj\Debug\net8.0\src.AssemblyInfo.cs
+D:\VisualStudioProjects\Drug_PlasticCard\src\obj\Debug\net8.0\src.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Drug_PlasticCard\src\obj\Debug\net8.0\src.dll
+D:\VisualStudioProjects\Drug_PlasticCard\src\obj\Debug\net8.0\refint\src.dll
+D:\VisualStudioProjects\Drug_PlasticCard\src\obj\Debug\net8.0\src.pdb
+D:\VisualStudioProjects\Drug_PlasticCard\src\obj\Debug\net8.0\src.genruntimeconfig.cache
+D:\VisualStudioProjects\Drug_PlasticCard\src\obj\Debug\net8.0\ref\src.dll
